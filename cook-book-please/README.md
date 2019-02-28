@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+Hey there. So this is a web app I built with React. It allows you to search for a drink based on an ingredient you have. This app makes an API call to a public drinks API. I am working on making this app responsive, but at the moment it is not. 
+
+Enjoy!
+
+p.s. To use this app, make sure to run Nodemon or your local server once you have dowloaded the app and installed all of the required dependencies. 
+
+
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
